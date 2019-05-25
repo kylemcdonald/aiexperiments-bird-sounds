@@ -1,5 +1,9 @@
 @import "responsiveFont";
 
+#badges, #legal {
+	display: none !important;
+}
+
 #intro {
 	display:block;
 }
